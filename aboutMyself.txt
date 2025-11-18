@@ -7,4 +7,8 @@ year of Admission: 2024
 College Name: Ghousia Institute Of technology for Women
 SSLC: Noble Saint English School
 PUC: Falcon PU College
+<<<<<<< HEAD
 UG Degree: 2nd year B.E. in Computer Science and Engineering
+=======
+UG Degree: Ghousia Institute Of Technology For Women
+>>>>>>> e330463 ( Merged feature-branch into the master branch with updated contents)
